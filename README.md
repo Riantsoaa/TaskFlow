@@ -51,4 +51,3 @@ TaskFlow/
 4. Open the app at `http://localhost/TaskFlow`.
 
 ---
-*Developed by Antigravity as requested by ANDRINIAINA Riantsoa (V24).*
